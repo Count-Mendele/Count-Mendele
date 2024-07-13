@@ -1,8 +1,4 @@
 - Bonjour, I'm @Count-Mendele
-- I'm interested in RPG (Deltarune like) and horror (FNaF like) games
-- Currently I'm (and my friend, a little) trying to make FNaF parody
 - I'm currently learning C# with Unity and GDScript with Godot
 - I'm looking to collaborate on optimizating scripts and gameplay
 - You can find me on Discord (count_mendele)
-- Pronouns: he/ they
-- Fun fact: I'm neither French nor English native speaker

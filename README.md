@@ -1,4 +1,1 @@
-- Bonjour, I'm @Count-Mendele
-- I'm currently learning C# with Unity and GDScript with Godot
-- I'm looking to collaborate on optimizating scripts and gameplay
-- You can find me on Discord (count_mendele)
+
